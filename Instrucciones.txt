@@ -1,0 +1,23 @@
+*Descomprimir en escritorio preferiblemente
+
+1) Ejecute el Sublime Text 3 
+2) Click en ''File'' > ''Open folder''
+3) Despliegue en la barra izquierda: Ejercicio > fundamentos > Curso > principal
+4) Asegurese de tener instalado el npm de yargs (para evitar inconvenientes)
+5) Ejecute el Simbolo del sistema (cmd)
+6) Digite los siguientes comandos:
+   *cd desktop (Solo si la carpeta esta en escritorio, sino, especificar la ubicacion de esta)
+   *cd Ejercicio
+   *cd fundamentos
+   *node principal (para asi verificar primer historia de usuario)
+   *node principal inscribir -i=1 -n=Sebastian -x=12345 (para asi verificar segunda historia de usuario)
+                           (valores solo como ejemplo, puede emplear los que desee)
+   
+
+
+Si hay algun inconveniente, porfavor contactarme a mi correo:
+kaiser130@hotmail.com
+
+
+Muchas gracias
+Un saludo.
